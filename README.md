@@ -1,6 +1,7 @@
 
 # 🎸 Risky — @wrsptrr
-Hi! i'm Risky Wira Saputra a front-end developer from Bali, Indonesia. I've been experienced in [ReactJS](https://reactjs.org) since 2019 and currently working for [PT. Bhawana Piranti Semesta](https://bhawanacompany.com/) building an enterprise resource planning application.
+Hi, i'm Risky Wira Saputra your frontend developer buddy who can help you to realize your dream website!
+
 ## 🛠 Languages & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
